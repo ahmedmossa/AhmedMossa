@@ -5,6 +5,13 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedmossa&theme=radical&column=7&margin-w=15" alt="Trophies" />
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedmossa&theme=radical&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 👨‍💻 About Me
 I am a **Senior Electronics & Communications Engineer** (Class of 2007) with over 15 years of experience in technical leadership and project management. My career has been defined by solving complex problems for local teams and contractors.
 
@@ -31,19 +38,26 @@ I am currently an intensive trainee at **SEF Academy**, where I am mastering the
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ My Technical Stack
 
 ### 🔵 Active Frontend Stack (Current Mastery)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 - **Languages:** HTML5, CSS3, JavaScript (ES6+).
 - **Styling:** Tailwind CSS (Modern, Utility-First Architecture).
 - **Principles:** Responsive Design, SEO Optimization, Performance Engineering.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🟡 Computational Foundation (Prior Knowledge)
 - **Programming:** Python (OOP, Logic, Automation) - *Certified by Codezilla & Udacity.*
 - **Databases:** Relational Database concepts (PostgreSQL).
 - **Data Science:** Fundamentals of Data Science & Statistical Analysis (2018 Udacity).
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Fedora](https://img.shields.io/badge/fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white)
 
 ### 🔴 Engineering Leadership (15+ Years)
 - **Team Management:** Led technical & administrative teams and managed sub-contractors.
@@ -55,10 +69,13 @@ I am currently an intensive trainee at **SEF Academy**, where I am mastering the
 ## 📊 GitHub Analytics & Commitment
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmossa&show_icons=true&locale=en&theme=radical&hide_border=false" alt="Ahmed Mossa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmossa&show_icons=true&locale=en&theme=radical&layout=compact&hide_border=false" alt="Ahmed Mossa's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmossa&show_icons=true&locale=en&theme=radical&hide_border=false" height="150" alt="Stats Card" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmossa&theme=radical&hide_border=false" height="150" alt="Streak Card" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmossa&show_icons=true&locale=en&theme=radical&layout=compact&hide_border=false" height="150" alt="Languages Card" />
+</p>
 ---
 
 ## 🚀 Future Vision: Project "Basira"
@@ -85,3 +102,5 @@ Currently, I have architected the "Constitution" and the core business logic (Fi
 
 ---
 *"Engineering is the art of organizing design; programming is the art of implementing it."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ahmedmossa&label=PROFILE%20VIEWS&color=0e75b6&style=flat)
