@@ -5,9 +5,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedmossa&theme=radical&column=7&margin-w=15" alt="Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedmossa&theme=radical&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
