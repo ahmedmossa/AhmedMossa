@@ -61,14 +61,6 @@ I am currently an intensive trainee at **SEF Academy**, where I am mastering the
 
 ---
 
-## 🚀 Visual Showcase
-
-<p align="center">
-  <img src="E:\البنهاوي\كورس FullStack Web Developer 2025\محاضرات وTasks و projects لـ HTML CSS HTML5 CSS3\FullStack\pro2.gif" alt="Project Live Demo" width="100%" />
-</p>
-
----
-
 ## 🚀 Future Vision: Project "Basira"
 **Basira** is my flagship vision—an Economic Intelligence platform. 
 Currently, I have architected the "Constitution" and the core business logic (Financial models, Liquidity analysis, Break-even points). I am now building the UI/UX foundation, with plans to fully develop the engine as I progress into Backend technologies.
