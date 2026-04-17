@@ -5,10 +5,6 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmedmossa&theme=radical&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 👨‍💻 About Me
 I am a **Senior Electronics & Communications Engineer** (Class of 2007) with over 15 years of experience in technical leadership and project management. My career has been defined by solving complex problems for local teams and contractors.
 
@@ -39,22 +35,23 @@ I am currently an intensive trainee at **SEF Academy**, where I am mastering the
 
 ### 🔵 Active Frontend Stack (Current Mastery)
 
-- **Languages:** HTML5, CSS3, JavaScript (ES6+).
-- **Styling:** Tailwind CSS (Modern, Utility-First Architecture).
-- **Principles:** Responsive Design, SEO Optimization, Performance Engineering.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+- **Languages:** HTML5, CSS3, JavaScript (ES6+).
+- **Styling:** Tailwind CSS (Modern, Utility-First Architecture).
+- **Principles:** Responsive Design, SEO Optimization, Performance Engineering.
 
 ### 🟡 Computational Foundation (Prior Knowledge)
-- **Programming:** Python (OOP, Logic, Automation) - *Certified by Codezilla & Udacity.*
-- **Databases:** Relational Database concepts (PostgreSQL).
-- **Data Science:** Fundamentals of Data Science & Statistical Analysis (2018 Udacity).
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Fedora](https://img.shields.io/badge/fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white)
+- **Programming:** Python (OOP, Logic, Automation) - *Certified by Codezilla & Udacity.*
+- **Databases:** Relational Database concepts (PostgreSQL).
+- **Data Science:** Fundamentals of Data Science & Statistical Analysis (2018 Udacity).
 
 ### 🔴 Engineering Leadership (15+ Years)
 - **Team Management:** Led technical & administrative teams and managed sub-contractors.
