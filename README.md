@@ -37,6 +37,7 @@ I am currently an intensive trainee at **SEF Academy**, where I am mastering the
 - **Languages:** HTML5, CSS3, JavaScript (ES6+).
 - **Styling:** Tailwind CSS (Modern, Utility-First Architecture).
 - **Principles:** Responsive Design, SEO Optimization, Performance Engineering.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🟡 Computational Foundation (Prior Knowledge)
 - **Programming:** Python (OOP, Logic, Automation) - *Certified by Codezilla & Udacity.*
