@@ -17,6 +17,20 @@ For years, I explored programming as a foundational tool (Python & Data Science)
 
 ---
 
+## 🎓 Education & Professional Training
+- **B.Sc. in Electronics & Communications Engineering** | Class of 2007.
+- **Full-Stack Web Development Diploma** | [SEF Academy](https://seflearn.com/) (In Progress).
+- **Fundamentals of Programming & Mastering Python** | Codezilla (2024).
+- **Programming for Data Science** | Udacity Nanodegree (2018).
+
+## 🔭 Currently Focused
+I am currently an intensive trainee at **SEF Academy**, where I am mastering the Full-Stack ecosystem through a project-based learning approach. 
+- **Phase 1 (Completed):** Advanced Frontend Engineering (HTML5, CSS3, Tailwind CSS).
+- **Phase 2 (Current):** Mastery of Vanilla JavaScript & UI Logic.
+- **Phase 3 (Upcoming):** Scalable Backend Systems & Database Architecture.
+
+---
+
 ## 🛠️ Technical Arsenal
 
 ### 🔵 Active Frontend Stack (Current Mastery)
@@ -32,7 +46,7 @@ For years, I explored programming as a foundational tool (Python & Data Science)
 ### 🔴 Engineering Leadership (15+ Years)
 - **Team Management:** Led technical & administrative teams and managed sub-contractors.
 - **Problem Solving:** Root cause analysis and technical troubleshooting.
-- **Workflow Optimization:** Streamlining complex processes into actionable plans.
+- **Workflow Architecture:** Streamlining complex processes into actionable software requirements.
 
 ---
 
@@ -42,11 +56,15 @@ Currently, I have architected the "Constitution" and the core business logic (Fi
 
 ---
 
-## 📈 Roadmap
-- [X] Frontend Excellence (HTML/CSS/Tailwind).
-- [X] Advanced UI Logic (Vanilla JavaScript).
-- [ ] **Next Step:** Node.js & Database Integration for Full-Stack solutions.
-- [ ] **Goal:** Deploying the first functional MVP of **Basira**.
+## 📈 Professional Evolution Roadmap
+
+- [X] **Phase 1: Structural Foundations** (HTML5, CSS3, Tailwind CSS) - *Achieved*
+- [X] **Phase 2: Logic & Interactivity** (Vanilla JavaScript, DOM Manipulation) - *In Progress*
+- [ ] **Phase 3: Scalable Full-Stack Ecosystem**
+    - **Frontend Frameworks:** React.js & Next.js (App Router, SSR, SSG).
+    - **Type Safety:** TypeScript (For robust, error-free engineering).
+    - **Backend Architecture:** Node.js & Express.
+    - **Database Management:** Deep dive into PostgreSQL & Prisma ORM.
 
 ---
 
