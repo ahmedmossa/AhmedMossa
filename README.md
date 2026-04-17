@@ -40,7 +40,6 @@ I am currently an intensive trainee at **SEF Academy**, where I am mastering the
 - **Styling:** Tailwind CSS (Modern, Utility-First Architecture).
 - **Principles:** Responsive Design, SEO Optimization, Performance Engineering.
 
-
 ### 🟡 Computational Foundation (Prior Knowledge)
 - **Programming:** Python (OOP, Logic, Automation) - *Certified by Codezilla & Udacity.*
 - **Databases:** Relational Database concepts (PostgreSQL).
@@ -50,6 +49,15 @@ I am currently an intensive trainee at **SEF Academy**, where I am mastering the
 - **Team Management:** Led technical & administrative teams and managed sub-contractors.
 - **Problem Solving:** Root cause analysis and technical troubleshooting.
 - **Workflow Architecture:** Streamlining complex processes into actionable software requirements.
+
+---
+
+## 📊 GitHub Analytics & Commitment
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmossa&show_icons=true&locale=en&theme=radical&hide_border=false" alt="Ahmed Mossa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmossa&show_icons=true&locale=en&theme=radical&layout=compact&hide_border=false" alt="Ahmed Mossa's Top Languages" />
+</p>
 
 ---
 
