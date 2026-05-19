@@ -54,9 +54,14 @@ Currently polishing production-grade software delivery via the **Full-Stack Web 
 
 ---
 
-## 📐 System Metrics
+## 📊 Performance Metrics & System Insights
 
 ```space-mono
-[+] Core Philosophy : "Every line of code must govern a logical outcome."
-[+] SCADA Experience: 15 Years of Critical Infrastructure Debugging Applied to Clean Code.
-[+] Dev Environment : Linux Fedora x64 // VS Code AI-Assisted Workflows
+================================================================================
+[SYSTEM METRICS]                                                [STATUS: ONLINE]
+================================================================================
+• Core Philosophy : "Every line of code must govern a logical outcome."
+• Infrastructure  : 15 Years of Critical SCADA & System Debugging Experience.
+• Dev Environment : Linux Fedora x64 || VS Code Professional Workflows.
+• Current Focus   : Full-Stack Enterprise Modules & System Equilibrium.
+================================================================================
