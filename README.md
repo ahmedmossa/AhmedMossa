@@ -58,12 +58,12 @@ Currently polishing production-grade software delivery via the **Full-Stack Web 
 ## 📊 Live GitHub Analytics & Repository Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMossa&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=c6a75e&text_color=a1a1aa&icon_color=c6a75e" alt="Ahmed's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMossa&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=c6a75e&text_color=a1a1aa" alt="Ahmed's Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmossa&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=c6a75e&text_color=a1a1aa&icon_color=c6a75e" alt="Ahmed's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmossa&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=c6a75e&text_color=a1a1aa" alt="Ahmed's Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMossa&theme=dark&hide_border=true&background=050505&fire=c6a75e&ring=c6a75e&title=c6a75e&stroke=0c0c0c&text=a1a1aa" alt="Ahmed's GitHub Streak" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmossa&theme=dark&hide_border=true&background=050505&fire=c6a75e&ring=c6a75e&title=c6a75e&stroke=0c0c0c&text=a1a1aa" alt="Ahmed's GitHub Streak" width="98%" />
 </p>
 
 ---
