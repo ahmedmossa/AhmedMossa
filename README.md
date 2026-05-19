@@ -25,7 +25,7 @@ Currently polishing production-grade software delivery via the **Full-Stack Web 
 
 * **2007 // Hardware & Logic Genesis:** B.Sc. in Electronics & Communications Engineering. A foundation built on low-level logic, circuit architecture, and core programming concepts (C++), combined with an Excellent grade graduation project in Intelligent Autonomous Robots.
 * **2018 — 2024 // Data & Logic Exploration:** Independent and rigorous exploration of backend data structures, relational database architecture (PostgreSQL), and computational thinking via Python.
-* **2026 // Architectural Synthesis:** Active mastering of advanced frontend architectures, modern frameworks, and full-stack integration modules.
+* **2026 // Architectural Synthesis:** Active mastering of advanced frontend architectures, modern frameworks, and full-stack integration modules at SEF Academy.
 
 ---
 
@@ -34,30 +34,23 @@ Currently polishing production-grade software delivery via the **Full-Stack Web 
 ### 📁 Frontend Architecture & UI
 `HTML5 (Semantic)` `CSS3 (Flex/Grid)` `JavaScript (ES6+ Logic)` `Tailwind CSS` `SASS` `Responsive Web Design (Mobile-First)` `DOM Manipulation`
 
-### 📁 Current Mastering & Frameworks (SEF Academy Path)
-`React.js` `Next.js` `Node.js` `TypeScript (Upcoming Static Typing Focus)`
-
-### 📁 Environment & Modern Workflow
+### 📁 Modern Workflow & Systems
 `Fedora Linux` `Git & GitHub` `Vite` `Webpack` `NPM / PNPM` `PostgreSQL` `SCADA Interface Logic`
 
 ---
 
-## 📁 Selected Artifacts (Featured Projects)
+## 📁 Artifacts & Deployments (Current Repositories)
 
 ### 01. Elite Pro-Cyber Logic Engine
 * **Core Stack:** Native Vanilla JavaScript + Advanced DOM Architecture + CSS Grid
 * **Performance:** Leveraged Intersection Observer API for optimized DOM performance, ensuring fluid user interactions and efficient UI state management.
 * **UX/UI:** Implemented sophisticated micro-interactions including flip-cards and pulsating effects to enhance navigation efficiency by 30%.
-* 🔗 **[Review Live Deployment](https://ahmedmossa.github.io/Pro-Cyber-Calculator/)**
+* 🔗 **[Review Live Deployment](https://ahmedmossa.github.io/Pro-Cyber-Calculator/)** | **[Source Code](https://github.com/ahmedmossa/Pro-Cyber-Calculator)**
 
 ### 02. Elite AI-Powered Feasibility & Strategic Advisory Platform
 * **Core Stack:** HTML5 (Semantic Structure) + Tailwind CSS (Utility-First Architecture)
 * **Performance:** Achieved a **98/100 Lighthouse performance score** by enforcing prioritized asset loading, advanced SEO practices, and JSON-LD Schema.
-* 🔗 **[Review Live Deployment](https://ahmedmossa.github.io/Elite-AI-Advisory-Tailwind/)**
-
-### 03. Basira Economic Intelligence (Conceptual Framework)
-* **Vision:** An upcoming full-stack strategic intelligence engine integrating mathematical modeling with modern decoupled frameworks.
-* 🛠️ *Phase: Architectural Planning & Blueprinting.*
+* 🔗 **[Review Live Deployment](https://ahmedmossa.github.io/Elite-AI-Advisory-Tailwind/)** | **[Source Code](https://github.com/ahmedmossa/Elite-AI-Advisory-Tailwind)**
 
 ---
 
