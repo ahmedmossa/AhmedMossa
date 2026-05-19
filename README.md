@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Location-Jeddah,%20KSA-718096?style=flat-square" alt="Location" />
+  <img src="https://komarev.com/ghvc/?username=AhmedMossa&label=SYSTEM%20VIEWS&color=c6a75e&style=flat-square" alt="Visitor Counter" />
 </p>
 
 ---
@@ -45,16 +46,29 @@ Currently polishing production-grade software delivery via the **Full-Stack Web 
 * **Core Stack:** Native Vanilla JavaScript + Advanced DOM Architecture + CSS Grid
 * **Performance:** Leveraged Intersection Observer API for optimized DOM performance, ensuring fluid user interactions and efficient UI state management.
 * **UX/UI:** Implemented sophisticated micro-interactions including flip-cards and pulsating effects to enhance navigation efficiency by 30%.
-* 🔗 **[Review Live Deployment](https://ahmedmossa.github.io/Pro-Cyber-Calculator/)** | **[Source Code](https://github.com/ahmedmossa/Pro-Cyber-Calculator)**
+* 🔗 **[Review Live Deployment](https://ahmedmossa.github.io/Pro-Cyber-Calculator/)** | **[Source Code](https://github.com/AhmedMossa/Pro-Cyber-Calculator)**
 
 ### 02. Elite AI-Powered Feasibility & Strategic Advisory Platform
 * **Core Stack:** HTML5 (Semantic Structure) + Tailwind CSS (Utility-First Architecture)
 * **Performance:** Achieved a **98/100 Lighthouse performance score** by enforcing prioritized asset loading, advanced SEO practices, and JSON-LD Schema.
-* 🔗 **[Review Live Deployment](https://ahmedmossa.github.io/Elite-AI-Advisory-Tailwind/)** | **[Source Code](https://github.com/ahmedmossa/Elite-AI-Advisory-Tailwind)**
+* 🔗 **[Review Live Deployment](https://ahmedmossa.github.io/Elite-AI-Advisory-Tailwind/)** | **[Source Code](https://github.com/AhmedMossa/Elite-AI-Advisory-Tailwind)**
 
 ---
 
-## 📊 Performance Metrics & System Insights
+## 📊 Live GitHub Analytics & Repository Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMossa&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=c6a75e&text_color=a1a1aa&icon_color=c6a75e" alt="Ahmed's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMossa&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=c6a75e&text_color=a1a1aa" alt="Ahmed's Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMossa&theme=dark&hide_border=true&background=050505&fire=c6a75e&ring=c6a75e&title=c6a75e&stroke=0c0c0c&text=a1a1aa" alt="Ahmed's GitHub Streak" width="98%" />
+</p>
+
+---
+
+## 📐 System Metrics
 
 ```space-mono
 ================================================================================
@@ -63,5 +77,4 @@ Currently polishing production-grade software delivery via the **Full-Stack Web 
 • Core Philosophy : "Every line of code must govern a logical outcome."
 • Infrastructure  : 15 Years of Critical SCADA & System Debugging Experience.
 • Dev Environment : Linux Fedora x64 || VS Code Professional Workflows.
-• Current Focus   : Full-Stack Enterprise Modules & System Equilibrium.
 ================================================================================
