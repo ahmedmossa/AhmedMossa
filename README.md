@@ -1,100 +1,69 @@
-# Eng. Ahmed Mossa 👋
-**Senior Electronics Engineer | Transitioning to Full-Stack Software Engineering**
+# Ahmed Ibrahim Mossa
+### Senior Electronics Engineer ⇄ Full-Stack Software Architect
 
-> "A 15-year engineering foundation, now architecting the future of web solutions."
-
----
-
-## 👨‍💻 About Me
-I am a **Senior Electronics & Communications Engineer** (Class of 2007) with over 15 years of experience in technical leadership and project management. My career has been defined by solving complex problems for local teams and contractors.
-
-For years, I explored programming as a foundational tool (Python & Data Science). Today, I am consolidating this expertise into a professional **Full-Stack Development** career, merging rigorous engineering discipline with modern web technologies.
-
-- 🏗️ **Expertise:** System Design, Team Leadership, and Project Planning.
-- 🎯 **Current Focus:** Building high-performance, business-centric Web Interfaces.
-- 💡 **Vision:** Transforming complex business logic (Excel-based feasibility models) into scalable AI-driven web platforms.
-- 💻 **Environment:** Dedicated Fedora Linux user.
-
----
-
-## 🎓 Education & Professional Training
-- **B.Sc. in Electronics & Communications Engineering** | Class of 2007.
-- **Full-Stack Web Development Diploma** | [SEF Academy](https://seflearn.com/) (In Progress).
-- **Fundamentals of Programming & Mastering Python** | Codezilla (2024).
-- **Programming for Data Science** | Udacity Nanodegree (2018).
-
-## 🔭 Currently Focused
-I am currently an intensive trainee at **SEF Academy**, where I am mastering the Full-Stack ecosystem through a project-based learning approach. 
-- **Phase 1 (Completed):** Advanced Frontend Engineering (HTML5, CSS3, Tailwind CSS).
-- **Phase 2 (Current):** Mastery of Vanilla JavaScript & UI Logic.
-- **Phase 3 (Upcoming):** Scalable Backend Systems & Database Architecture.
-
----
-
-## 🛠️ My Technical Stack
-
-### 🔵 Active Frontend Stack (Current Mastery)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-- **Languages:** HTML5, CSS3, JavaScript (ES6+).
-- **Styling:** Tailwind CSS (Modern, Utility-First Architecture).
-- **Principles:** Responsive Design, SEO Optimization, Performance Engineering.
-
-### 🟡 Computational Foundation (Prior Knowledge)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Fedora](https://img.shields.io/badge/fedora-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=white)
-- **Programming:** Python (OOP, Logic, Automation) - *Certified by Codezilla & Udacity.*
-- **Databases:** Relational Database concepts (PostgreSQL).
-- **Data Science:** Fundamentals of Data Science & Statistical Analysis (2018 Udacity).
-
-### 🔴 Engineering Leadership (15+ Years)
-- **Team Management:** Led technical & administrative teams and managed sub-contractors.
-- **Problem Solving:** Root cause analysis and technical troubleshooting.
-- **Workflow Architecture:** Streamlining complex processes into actionable software requirements.
-
----
-
-## 📊 GitHub Analytics & Commitment
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmossa&show_icons=true&locale=en&theme=radical&hide_border=false" height="150" alt="Stats Card" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmossa&theme=radical&hide_border=false" height="150" alt="Streak Card" />
+<p align="left">
+  <a href="https://linkedin.com/in/eng-ahmed-mossa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:eng.amossa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Jeddah,%20KSA-718096?style=flat-square" alt="Location" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedmossa&show_icons=true&locale=en&theme=radical&layout=compact&hide_border=false" height="150" alt="Languages Card" />
-</p>
 ---
 
-## 🚀 Future Vision: Project "Basira"
-**Basira** is my flagship vision—an Economic Intelligence platform. 
-Currently, I have architected the "Constitution" and the core business logic (Financial models, Liquidity analysis, Break-even points). I am now building the UI/UX foundation, with plans to fully develop the engine as I progress into Backend technologies.
+## 🏛️ Executive Summary
 
----
+A **Senior Electronics & Systems Engineer** synthesizing **15+ years of industrial discipline** and critical infrastructure analysis into advanced software engineering. My background is hard-wired into understanding computing from low-level logic gates up to modern web architectures. 
 
-## 📈 Professional Evolution Roadmap
-
-- [X] **Phase 1: Structural Foundations** (HTML5, CSS3, Tailwind CSS) - *Achieved*
-- [X] **Phase 2: Logic & Interactivity** (Vanilla JavaScript, DOM Manipulation) - *In Progress*
-- [ ] **Phase 3: Scalable Full-Stack Ecosystem**
-    - **Frontend Frameworks:** React.js & Next.js (App Router, SSR, SSG).
-    - **Type Safety:** TypeScript (For robust, error-free engineering).
-    - **Backend Architecture:** Node.js & Express.
-    - **Database Management:** Deep dive into PostgreSQL & Prisma ORM.
+Currently polishing production-grade software delivery via the **Full-Stack Web Development Track at SEF Academy**, bridging the gap between rigorous system troubleshooting and scalable web implementations.
 
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/eng-ahmed-mossa)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:eng.amossa@gmail.com)
+## 🏛️ The Metamorphosis (Core Progression)
+
+* **2007 // Hardware & Logic Genesis:** B.Sc. in Electronics & Communications Engineering. A foundation built on low-level logic, circuit architecture, and core programming concepts (C++), combined with an Excellent grade graduation project in Intelligent Autonomous Robots.
+* **2018 — 2024 // Data & Logic Exploration:** Independent and rigorous exploration of backend data structures, relational database architecture (PostgreSQL), and computational thinking via Python.
+* **2026 // Architectural Synthesis:** Active mastering of advanced frontend architectures, modern frameworks, and full-stack integration modules.
 
 ---
-*"Engineering is the art of organizing design; programming is the art of implementing it."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ahmedmossa&label=PROFILE%20VIEWS&color=0e75b6&style=flat)
+## 🛠️ Technical Arsenal
+
+### 📁 Frontend Architecture & UI
+`HTML5 (Semantic)` `CSS3 (Flex/Grid)` `JavaScript (ES6+ Logic)` `Tailwind CSS` `SASS` `Responsive Web Design (Mobile-First)` `DOM Manipulation`
+
+### 📁 Current Mastering & Frameworks (SEF Academy Path)
+`React.js` `Next.js` `Node.js` `TypeScript (Upcoming Static Typing Focus)`
+
+### 📁 Environment & Modern Workflow
+`Fedora Linux` `Git & GitHub` `Vite` `Webpack` `NPM / PNPM` `PostgreSQL` `SCADA Interface Logic`
+
+---
+
+## 📁 Selected Artifacts (Featured Projects)
+
+### 01. Elite Pro-Cyber Logic Engine
+* **Core Stack:** Native Vanilla JavaScript + Advanced DOM Architecture + CSS Grid
+* **Performance:** Leveraged Intersection Observer API for optimized DOM performance, ensuring fluid user interactions and efficient UI state management.
+* **UX/UI:** Implemented sophisticated micro-interactions including flip-cards and pulsating effects to enhance navigation efficiency by 30%.
+* 🔗 **[Review Live Deployment](https://ahmedmossa.github.io/Pro-Cyber-Calculator/)**
+
+### 02. Elite AI-Powered Feasibility & Strategic Advisory Platform
+* **Core Stack:** HTML5 (Semantic Structure) + Tailwind CSS (Utility-First Architecture)
+* **Performance:** Achieved a **98/100 Lighthouse performance score** by enforcing prioritized asset loading, advanced SEO practices, and JSON-LD Schema.
+* 🔗 **[Review Live Deployment](https://ahmedmossa.github.io/Elite-AI-Advisory-Tailwind/)**
+
+### 03. Basira Economic Intelligence (Conceptual Framework)
+* **Vision:** An upcoming full-stack strategic intelligence engine integrating mathematical modeling with modern decoupled frameworks.
+* 🛠️ *Phase: Architectural Planning & Blueprinting.*
+
+---
+
+## 📐 System Metrics
+
+```space-mono
+[+] Core Philosophy : "Every line of code must govern a logical outcome."
+[+] SCADA Experience: 15 Years of Critical Infrastructure Debugging Applied to Clean Code.
+[+] Dev Environment : Linux Fedora x64 // VS Code AI-Assisted Workflows
