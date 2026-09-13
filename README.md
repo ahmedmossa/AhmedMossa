@@ -94,6 +94,10 @@ My engineering journey bridges the gap between hardware discipline and modern sc
   <img src="https://img.shields.io/badge/Python--5%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMossa&layout=compact&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa&langs_count=6" alt="Real Language Distribution" />
+</div>
+
 <br/>
 
 ---
