@@ -86,7 +86,7 @@ My engineering journey bridges the gap between hardware discipline and modern sc
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMossa&theme=dracula" alt="GitHub Profile Summary" />
 </div>
 
-### 📊 Language Usage Distribution
+
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript--55%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/HTML5--25%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
