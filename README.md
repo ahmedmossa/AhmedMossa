@@ -60,7 +60,7 @@ My engineering journey bridges the gap between hardware discipline and modern sc
 ## 📈 GitHub Performance & Activity Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmossa&show_icons=true&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa&icon_color=38bdf8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmossa&show_icons=true&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa&icon_color=38bdf8" alt="Ahmed's GitHub Stats" />
 </div>
 
 <br/>
@@ -74,7 +74,6 @@ My engineering journey bridges the gap between hardware discipline and modern sc
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=ahmedmossa&theme=dark&hide_border=true&background=090d16&fire=38bdf8&ring=38bdf8&title=38bdf8&stroke=0c0c0c&text=a1a1aa" alt="GitHub Streak" />
 </div>
-
 ---
 
 ## 📐 System Diagnostics
