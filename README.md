@@ -59,20 +59,19 @@ My engineering journey bridges the gap between hardware discipline and modern sc
 
 ## 📈 GitHub Performance & Activity Insights
 
+<p align="center">
+  <img src="https://repobeats.axiom.co/api/embed/0000000000000000000000000000000000000000.svg" alt="Repobeats Analytics Image" style="width: 100%; max-width: 600px;" />
+</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmossa&show_icons=true&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa&icon_color=38bdf8" alt="Ahmed's GitHub Stats" />
+  <img src="https://img.shields.io/badge/GitHub%20Contributions-Active-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Profile%20Status-Online-38bdf8?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmossa&layout=compact&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmedmossa&theme=dark&hide_border=true&background=090d16&fire=38bdf8&ring=38bdf8&title=38bdf8&stroke=0c0c0c&text=a1a1aa" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMossa&layout=compact&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa" alt="Top Languages" />
 </div>
 ---
 
