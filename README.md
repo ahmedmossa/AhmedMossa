@@ -57,22 +57,29 @@ My engineering journey bridges the gap between hardware discipline and modern sc
 
 ---
 
-## 📈 GitHub Performance & Activity Insights
-
-<p align="center">
-  <img src="https://repobeats.axiom.co/api/embed/0000000000000000000000000000000000000000.svg" alt="Repobeats Analytics Image" style="width: 100%; max-width: 600px;" />
-</p>
+## 📈 Professional Core Competencies & Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Contributions-Active-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Profile%20Status-Online-38bdf8?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Architecture-Node.js%20%7C%20Express%20%7C%20JavaScript-38bdf8?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="FullStack" />
+  <img src="https://img.shields.io/badge/Hardware%20%26%20Systems-15+%20Years%20Experience-c6a75e?style=for-the-badge&logo=arduino&logoColor=white" alt="Systems" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-22c55e?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMossa&layout=compact&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa" alt="Top Languages" />
-</div>
+### 🛠️ Core Technology Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 ---
 
 ## 📐 System Diagnostics
