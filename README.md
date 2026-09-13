@@ -86,6 +86,10 @@ My engineering journey bridges the gap between hardware discipline and modern sc
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMossa&theme=dracula" alt="GitHub Profile Summary" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMossa&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa" alt="Top Languages Percentage" />
+</div>
+
 ---
 
 ## 📐 System Diagnostics
