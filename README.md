@@ -57,21 +57,17 @@ My engineering journey bridges the gap between hardware discipline and modern sc
 
 ---
 
-## 📈 GitHub Code Breakdown & Activity Insights
+## 📈 Professional Core Competencies & Stats
 
 <div align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Architecture-Node.js%20%7C%20Express%20%7C%20JavaScript-38bdf8?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="FullStack" />
   <img src="https://img.shields.io/badge/Hardware%20%26%20Systems-15+%20Years%20Experience-c6a75e?style=for-the-badge&logo=arduino&logoColor=white" alt="Systems" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-22c55e?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/langs?username=AhmedMossa&theme=dracula" alt="Top Languages Breakdown" />
-</div>
-
-<br/>
-
+### 🛠️ Core Technology Stack
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
