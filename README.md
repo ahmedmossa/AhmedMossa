@@ -80,6 +80,13 @@ My engineering journey bridges the gap between hardware discipline and modern sc
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+## 📊 Language Distribution & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMossa&layout=donut&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa" alt="Language Distribution" />
+</div>
+
+
 ---
 
 ## 📐 System Diagnostics
