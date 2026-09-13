@@ -95,7 +95,7 @@ My engineering journey bridges the gap between hardware discipline and modern sc
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMossa&layout=compact&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa&langs_count=6" alt="Real Language Distribution" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedMossa&theme=dracula" alt="GitHub Stats and Languages" />
 </div>
 
 <br/>
