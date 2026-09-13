@@ -86,9 +86,15 @@ My engineering journey bridges the gap between hardware discipline and modern sc
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedMossa&theme=dracula" alt="GitHub Profile Summary" />
 </div>
 
+### 📊 Language Usage Distribution
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMossa&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa" alt="Top Languages Percentage" />
+  <img src="https://img.shields.io/badge/JavaScript--55%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/HTML5--25%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3--15%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/Python--5%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
+
+<br/>
 
 ---
 
