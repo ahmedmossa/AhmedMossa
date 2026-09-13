@@ -64,7 +64,9 @@ My engineering journey bridges the gap between hardware discipline and modern sc
   <img src="https://img.shields.io/badge/Hardware%20%26%20Systems-15+%20Years%20Experience-c6a75e?style=for-the-badge&logo=arduino&logoColor=white" alt="Systems" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-22c55e?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
 </div>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMossa&layout=compact&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa" alt="Top Languages Breakdown" />
+</div>
 <br/>
 
 ### 🛠️ Core Technology Stack
