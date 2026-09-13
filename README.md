@@ -60,13 +60,13 @@ My engineering journey bridges the gap between hardware discipline and modern sc
 ## 📈 GitHub Performance & Activity Insights
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ahmedmossa&show_icons=true&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa&icon_color=38bdf8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmossa&show_icons=true&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa&icon_color=38bdf8" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmedmossa&layout=compact&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmossa&layout=compact&theme=dark&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=a1a1aa" alt="Top Languages" />
 </div>
 
 <br/>
